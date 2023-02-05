@@ -693,6 +693,7 @@ class CompoundError extends Error {
 }
 
 export {
+  Signal,
   Reactor,
   Observer,
   hide,
